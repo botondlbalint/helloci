@@ -16,9 +16,9 @@ public class EmptyClass {
 	}
 
 	public static int myDivide(int a, int b) throws ArithmeticException {
-		//return a/b;
+		return a/b;
 		//Uncomment the above line and delete the below one to fix the code
-		return a*b;
+		//return a*b;
 	}
 
 }
